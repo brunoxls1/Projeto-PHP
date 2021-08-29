@@ -1,0 +1,80 @@
+
+		.topo{
+
+			text-align: center;
+			background-color: #00008B;
+			height: 200px;
+		}
+		h1{
+
+			text-align: center;
+			font-family: verdana;
+			color: #000;
+			text-shadow: 2px 2px 2px #000;
+			font-size: 40px;
+		}
+		.pesquisa{
+
+			text-align: left;
+			color: #000;
+			font-size: 20px;
+			font-family: verdana;
+			text-shadow: none;
+
+		}
+	
+		.conteudo{
+			text-align: center;
+			font-family: verdana;
+			font-size: 16px;
+			text-shadow: none;
+			padding: 20px;
+		}
+		.rodape{
+
+			text-align: center;
+			font-family: verdana;
+			color: #fff;
+			font-size: 16px;
+			text-shadow: 2px 2px 2px #000;
+			background-color : #00008B ;
+			
+
+		}
+		footer{
+			text-align: center;
+			font-size: 15px;
+			color: #000;
+			text-shadow: none;
+			
+		}
+		h2{
+			text-align: center;
+			font-size: 30px;
+			font-family: verdana;
+		}
+	p{
+		text-align: center;
+		font-size: 16px;
+		font-family: verdana;
+
+	}
+	fieldset{
+		text-align: center;
+		width: 95%;
+	}
+
+	hr{
+	width: 100%;
+	}
+	.botoes{
+		text-align: center;
+
+	}
+	.voltar{
+		text-align: center;
+		font-family: verdana;
+		font-size: 16px;
+
+	}
+	
